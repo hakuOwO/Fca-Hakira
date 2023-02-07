@@ -1,5 +1,5 @@
 {
-  "name": "fca-horizon-Anup",
+  "name": "Fca-Hakira",
   "version": "8.4.0",
   "description": "Facebook Chat Api Remake By Horizon Against Get (available) And Pay Acc (whynot?)",
   "main": "index.js",
@@ -8,15 +8,15 @@
     "lint": "./node_modules/.bin/eslint **.js",
     "prettier": "prettier utils.js src/* --write"
   },
-  "author": "Anup Kumar",
+  "author": "HarryKanz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Anupx0/Fca-Horizon-Anup/issues"
+    "url": "https://github.com/hakuOwO/Fca-Hakira/issues"
   },
-  "homepage": "https://github.com/Anupx0/Fca-Horizon-Anup#readme",
+  "homepage": "https://github.com/hakuOwO/Fca-Hakira/#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Anupx0/Fca-Horizon-Anup.git"
+    "url": "git://github.com/hakuOwO/Fca-Hakira/.git"
   },
   "dependencies": {
     "aes-js": "latest",
